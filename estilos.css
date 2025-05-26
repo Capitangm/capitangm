@@ -1,0 +1,23 @@
+*{
+    padding: 0rem;
+    margin: 0rem;
+    font-size: 1.2rem;
+   
+}
+body{
+    background-color: black;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+     min-height: 100vh;
+}
+
+.contenido .formulario{
+    position: relative;
+    width: 400px;
+    height: 600px;
+    background: linear-gradient(45deg, purple, orange);
+    padding: 1.5rem;
+    overflow: hidden;
+}
+
